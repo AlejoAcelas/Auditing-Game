@@ -1,4 +1,4 @@
-# Auditing-Game
+# Auditing-Game (Mech-Interp)
 The work I've done under the mentoring of Marius Hobhahn as part of the Supervised Program for Alignment Research organized by the Berkeley AI Safety Student Initiative
 
 # Documents in progress
