@@ -1,5 +1,5 @@
 # Auditing-Game (Mech-Interp)
-The work I've done under the mentoring of Marius Hobhahn as part of the Supervised Program for Alignment Research organized by the Berkeley AI Safety Student Initiative
+The work I've done under the mentoring of Marius Hobhahn as part of the Supervised Program for Alignment Research
 
 # Documents in progress
 - Finding backdoors in a 1-layer transformer trained to predict the maximum of a sequence ([Collab](https://colab.research.google.com/drive/16eXWffxc1TYG6d2akePofsdDI-Dv6Mzi?usp=sharing))
